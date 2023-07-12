@@ -33,8 +33,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "Obj_Carita",
-    "path": "sprites/Obj_Carita/Obj_Carita.yy",
+    "name": "quieto",
+    "path": "sprites/quieto/quieto.yy",
   },
   "spriteMaskId": null,
   "visible": true,

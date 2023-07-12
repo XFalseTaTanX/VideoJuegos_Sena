@@ -35,7 +35,9 @@
   },
   "resources": [
     {"id":{"name":"CORRERJUGADOR","path":"sprites/CORRERJUGADOR/CORRERJUGADOR.yy",},},
+    {"id":{"name":"CORRERJUGADOR4","path":"sprites/CORRERJUGADOR4/CORRERJUGADOR4.yy",},},
     {"id":{"name":"Obj_Carita","path":"sprites/Obj_Carita/Obj_Carita.yy",},},
+    {"id":{"name":"quieto","path":"sprites/quieto/quieto.yy",},},
     {"id":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
   ],

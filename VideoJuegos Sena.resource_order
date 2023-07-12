@@ -18,5 +18,7 @@
   ],
   "ResourceOrderSettings": [
     {"name":"CORRERJUGADOR","order":1,"path":"sprites/CORRERJUGADOR/CORRERJUGADOR.yy",},
+    {"name":"CORRERJUGADOR4","order":2,"path":"sprites/CORRERJUGADOR4/CORRERJUGADOR4.yy",},
+    {"name":"quieto","order":1,"path":"sprites/quieto/quieto.yy",},
   ],
 }
