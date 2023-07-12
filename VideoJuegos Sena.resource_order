@@ -17,8 +17,11 @@
     {"name":"Timelines","order":8,"path":"folders/Timelines.yy",},
   ],
   "ResourceOrderSettings": [
+    {"name":"DEVCERWV","order":2,"path":"objects/DEVCERWV/DEVCERWV.yy",},
     {"name":"CORRERJUGADOR","order":1,"path":"sprites/CORRERJUGADOR/CORRERJUGADOR.yy",},
     {"name":"CORRERJUGADOR4","order":2,"path":"sprites/CORRERJUGADOR4/CORRERJUGADOR4.yy",},
+    {"name":"Sprite5","order":3,"path":"sprites/Sprite5/Sprite5.yy",},
+    {"name":"Sprite6","order":4,"path":"sprites/Sprite6/Sprite6.yy",},
     {"name":"quieto","order":1,"path":"sprites/quieto/quieto.yy",},
   ],
 }
